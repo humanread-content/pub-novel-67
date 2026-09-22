@@ -1,0 +1,67 @@
+version: 1
+title: 小桃的成语小院：自相矛盾
+slug: translation-66-zh-hans-eb8e41
+summary: 一面木盾，一支软头玩具矛，两句满满的夸口。小桃的一个问题，让阿禾学会把话说得真实。六章动态图文故事。
+cover_color: '#458f87'
+cover_asset: assets/5608efd3c26788a8aa256d3e6c8eb904736d2b7d8c170a05c1b9ec398ea12933.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: zh-Hans
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: c8a37d244d527feae65190eb7c018439a679d5c8c9726b304dfeba765b419fb2
+  source_novel_id: 66
+  source_slug: novel-4a95306b-41c2e0
+  source_title: 小桃的成語小院：自相矛盾
+  source_version_id: 106
+  target_language: zh-Hans
+  translator: Humanread Founder
+chapters:
+- id: 911
+  title: 桃树下的玩具摊
+  position: 1
+  file: chapters/0001-911.html
+  format: sandbox-html-css
+  share_card: null
+- id: 912
+  title: 第一句太满的话
+  position: 2
+  file: chapters/0002-912.html
+  format: sandbox-html-css
+  share_card: null
+- id: 913
+  title: 第二句碰上第一句
+  position: 3
+  file: chapters/0003-913.html
+  format: sandbox-html-css
+  share_card: null
+- id: 914
+  title: 先想一种可能
+  position: 4
+  file: chapters/0004-914.html
+  format: sandbox-html-css
+  share_card: null
+- id: 915
+  title: 再想另一种可能
+  position: 5
+  file: chapters/0005-915.html
+  format: sandbox-html-css
+  share_card: null
+- id: 916
+  title: 把话说得刚刚好
+  position: 6
+  file: chapters/0006-916.html
+  format: sandbox-html-css
+  share_card: null
